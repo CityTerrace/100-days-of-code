@@ -149,7 +149,7 @@ Finished the Besbite replica
 got eeeeeee
 
 <b>Link(s) to work</b>
-<a href="https://www.codecademy.com/courses/web-ext/projects/html-css-prj_bestbite"> </a>
+<a href="https://www.codecademy.com/courses/web-ext/projects/html-css-prj_bestbite">bestbite finished</a>
 
 <h2> Day 19 February 10, 2017</h2>
 <b> Today's Progress:</b>
@@ -167,7 +167,7 @@ Finished the "Build the website section" on Codecademy, codebrainery.io
 I need to start doing this on my own text-editor and "truly" do it on my own.
 
 <b>Link(s) to work</b>
-<a href="https://www.codecademy.com/courses/make-a-website/projects/codebrainery"> </a>
+<a href="https://www.codecademy.com/courses/make-a-website/projects/codebrainery">codebrainery.io</a>
 
 
 

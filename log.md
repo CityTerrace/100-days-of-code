@@ -75,3 +75,136 @@ This was fun. It's nice actually seeing a product than I can produce.
 
 <b>Link(s) to work</b> 
 <a href="http://codepen.io/CTY-TERR/full/rjYqvx/"> My tribute to Tosin Abasi from Animals as Leaders</a>
+
+<h2> Day 9 January 29, 2017</h2>
+<b> Today's Progress:</b>
+Finished my "About me" page on codepen. It's simple.
+<b>Thoughts:</b>
+I'm sure I'll come back to this one day and think, "Wow, really, that's it!?"
+
+<b>Link(s) to work</b>
+<a href="http://codepen.io/CTY-TERR/full/bgaNqq/"> CTY/TERR codepen</a>
+
+<h2> Day 10 - 11 January 30-31, 2017</h2>
+<b> Today's Progress:</b>
+Moved forward to the Javascript portion on FCC that I went over close to 4 months ago.
+<b>Thoughts:</b>
+I still know what's going. I like it.
+
+<b>Link(s) to work</b>
+<a href="https://www.freecodecamp.com/challenges/store-multiple-values-in-one-variable-using-javascript-arrays">Store multiple values in one variable using javascript arrays</a>
+
+<h2> Day 12 February 2, 2017</h2>
+<b> Today's Progress:</b>
+Worked on some more JS on FCC. Almost caught up to where I left off
+
+<b>Thoughts:</b>
+Gotta keep grinding
+<b>Link(s) to work</b>
+<a href=" ">https://www.freecodecamp.com/challenges/shopping-list</a>
+
+<h2> Day 13 February 13, 2017</h2>
+<b> Today's Progress:</b>
+Caught up to where I left off a couple months ago on JS / FCC
+
+<b>Thoughts:</b>
+Sleepppppppppp
+
+<b>Link(s) to work</b>
+<a href="https://www.freecodecamp.com/challenges/assignment-with-a-returned-value"> Assignment with a returned value </a>
+
+<h2> Day 14 February 4, 2017</h2>
+<b> Today's Progress:</b>
+Worked on the Move html project on CodeCademy
+<b>Thoughts:</b>
+I'm trying to get a full understanding how to build Websites from scratch so I'm revisiting the html projects on codeCademy
+Hit a wall, I'll get through it.
+<b>Link(s) to work</b>
+<a href="https://www.codecademy.com/courses/web-ext/projects/html-css-prj_move">MOVE website replica</a>
+
+<h2> Day 15 -16 February 5-6, 2017</h2>
+<b> Today's Progress:</b>
+Finished the MOVE website replica
+<b>Thoughts:</b>
+I passed the wall.
+
+<b>Link(s) to work</b>
+<a href="https://www.codecademy.com/courses/web-ext/projects/html-css-prj_move"> MOVE website replica</a>
+
+<h2> Day 17 February 7, 2017</h2>
+<b> Today's Progress:</b>
+Revisited the BestBite html replica on CodeCademy
+
+<b>Thoughts:</b>
+I'm starting to understand how this works without trying to inspect the true website.
+
+<b>Link(s) to work</b>
+<a href="https://www.codecademy.com/courses/web-ext/projects/html-css-prj_bestbite">BestBite website replica</a>
+
+<h2> Day 18 February 9, 2017</h2>
+<b> Today's Progress:</b>
+Finished the Besbite replica
+
+<b>Thoughts:</b>
+got eeeeeee
+
+<b>Link(s) to work</b>
+<a href="https://www.codecademy.com/courses/web-ext/projects/html-css-prj_bestbite"> </a>
+
+<h2> Day 19 February 10, 2017</h2>
+<b> Today's Progress:</b>
+Redid the quizzes on CodeCademy to get 100% on those sections
+<b>Thoughts:</b>
+I probably should do this more often with all categories.
+<b>Link(s) to work</b>
+<a href="https://www.codecademy.com/courses/web-ext/units/html-css-prjs-6/quizzes/html-css-unit-6"> CSS QUIZ</a>
+
+<h2> Day 20 February 11, 2017</h2>
+<b> Today's Progress:</b>
+Finished the "Build the website section" on Codecademy, codebrainery.io
+
+<b>Thoughts:</b>
+I need to start doing this on my own text-editor and "truly" do it on my own.
+
+<b>Link(s) to work</b>
+<a href="https://www.codecademy.com/courses/make-a-website/projects/codebrainery"> </a>
+
+
+
+<!--
+
+<h2> Day 9 January 29, 2017</h2>
+<b> Today's Progress:</b>
+
+<b>Thoughts:</b>
+
+<b>Link(s) to work</b>
+<a href=" "> </a>
+
+<h2> Day 9 January 29, 2017</h2>
+<b> Today's Progress:</b>
+
+<b>Thoughts:</b>
+
+<b>Link(s) to work</b>
+<a href=" "> </a>
+
+<h2> Day 9 January 29, 2017</h2>
+<b> Today's Progress:</b>
+
+<b>Thoughts:</b>
+
+<b>Link(s) to work</b>
+<a href=" "> </a>
+
+<h2> Day 9 January 29, 2017</h2>
+<b> Today's Progress:</b>
+
+<b>Thoughts:</b>
+
+<b>Link(s) to work</b>
+<a href=" "> </a>
+
+
+!-->
+

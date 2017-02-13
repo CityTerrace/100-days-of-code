@@ -183,6 +183,7 @@ Worked on the Jquery section of CodeCademy. Did two of the projects.
 
 <b>Thoughts:</b>
 I am going to definitely need to revisit all of this by making my own projects with them
+
 <b>Link(s) to work</b>
 <a href="https://www.codecademy.com/courses/jquery-ext/projects/jquery-prj_pocketbook"> PocketBook</a>
 <a href="https://www.codecademy.com/courses/jquery-ext/projects/jquery-prj_threadly">Threadly</a>

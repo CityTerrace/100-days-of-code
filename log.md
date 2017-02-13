@@ -171,16 +171,23 @@ I need to start doing this on my own text-editor and "truly" do it on my own.
 
 
 
-<!--
 
-<h2> Day 9 January 29, 2017</h2>
+
+<h2> Day 21 February 12, 2017</h2>
 <b> Today's Progress:</b>
+Worked on the Jquery section of CodeCademy. Did two of the projects.
+<ul>
+<li> Pocket Book </li>
+<li> Threadly </li>
+</ul>
 
 <b>Thoughts:</b>
-
+I am going to definitely need to revisit all of this by making my own projects with them
 <b>Link(s) to work</b>
-<a href=" "> </a>
+<a href="https://www.codecademy.com/courses/jquery-ext/projects/jquery-prj_pocketbook"> PocketBook</a>
+<a href="https://www.codecademy.com/courses/jquery-ext/projects/jquery-prj_threadly">Threadly</a>
 
+<!--
 <h2> Day 9 January 29, 2017</h2>
 <b> Today's Progress:</b>
 

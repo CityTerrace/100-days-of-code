@@ -213,6 +213,29 @@ I am going to definitely need to revisit all of this by making my own projects w
 <b>Link(s) to work</b>
 <a href=" "> </a>
 
+<h2> Day 9 January 29, 2017</h2>
+<b> Today's Progress:</b>
+
+<b>Thoughts:</b>
+
+<b>Link(s) to work</b>
+<a href=" "> </a>
+
+<h2> Day 9 January 29, 2017</h2>
+<b> Today's Progress:</b>
+
+<b>Thoughts:</b>
+
+<b>Link(s) to work</b>
+<a href=" "> </a>
+
+<h2> Day 9 January 29, 2017</h2>
+<b> Today's Progress:</b>
+
+<b>Thoughts:</b>
+
+<b>Link(s) to work</b>
+<a href=" "> </a>
 
 !-->
 
